@@ -1,0 +1,15 @@
+body{
+    margin-left: 50px;
+}
+
+h3{
+    color: goldenrod;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgoldenrod;
+}

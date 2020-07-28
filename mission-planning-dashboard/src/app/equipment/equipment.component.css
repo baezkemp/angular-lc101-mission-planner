@@ -1,0 +1,13 @@
+body{
+    margin-left: 50px;
+}
+h3{
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+li{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+}
